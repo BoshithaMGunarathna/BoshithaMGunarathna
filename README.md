@@ -14,12 +14,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=IT21319792&icon=5&color=1)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
+### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=IT21319792&label=Profile%20Views&pretty=true" />
-</a>
 
 
 ###
