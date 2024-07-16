@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=900&size=35&duration=4000&pause=1000&color=2600F7&background=80A8FF00&center=true&random=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=900&size=35&duration=4000&pause=1000&color=18C5F7&background=80A8FF00&center=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer)](https://git.io/typing-svg)
 <h2 align="left">Hi 👋! Im Boshitha Gunarathna</h2>
 
 ###
