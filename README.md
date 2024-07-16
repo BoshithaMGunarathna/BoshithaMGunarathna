@@ -1,8 +1,11 @@
 
 <h2 align="center">
-  <br/>Hey 👋! Im Boshitha Gunarathna</h2>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=900&size=35&duration=4000&pause=1000&color=18C5F7&background=80A8FF00&center=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer)](https://git.io/typing-svg)
-
+  <br/>Hey! Im Boshitha Gunarathna</h2>
+<div class="center">
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=900&size=35&duration=4000&pause=1000&color=18C5F7&background=80A8FF00&center=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer" alt="Typing SVG" />
+        </a>
+    </div>
 ###
 
 # 💻 Tech Stack:
