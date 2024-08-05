@@ -2,19 +2,13 @@
   <br/>Hey! I'm Boshitha Gunarathna
 </h2>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div align="center">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="boshitha-gunarathna-086075219" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/boshitha-gunarathna-086075219?trk=profile-badge">Boshitha Gunarathna</a>
-  </div>
-</div>
+              
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=900&size=35&duration=4000&pause=1000&color=18C5F7&background=80A8FF00&width=435&lines=Full+Stack+Developer;Mobile+App+Developer" alt="Typing SVG" />
   </a>
 </div>
-
 
 # 💻 Tech Stack:
 <div align="center">
