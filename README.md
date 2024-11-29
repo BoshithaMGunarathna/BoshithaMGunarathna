@@ -3,7 +3,10 @@
   <br/>Hey! I'm Boshitha Gunarathna
 </h2>
 
-              
+<a href="https://user-badge.committers.top/sri_lanka_private/IT2131792">
+  <img src="https://user-badge.committers.top/sri_lanka_private/IT2131792.svg" alt="committers badge" />
+</a>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
