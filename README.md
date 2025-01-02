@@ -34,9 +34,9 @@ https://it21319792.github.io/Myportfolio/
 
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=BoshithaMGunarathna&icon=5&color=1" alt="Visit Count" />
-  </a>
+ // <a href="https://visitcount.itsvg.in">
+ //   <img src="https://visitcount.itsvg.in/api?id=BoshithaMGunarathna&icon=5&color=1" alt="Visit Count" />
+ // </a>
 </div>
 
 
