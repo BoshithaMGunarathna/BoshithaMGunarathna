@@ -33,11 +33,7 @@ https://it21319792.github.io/Myportfolio/
 ![](https://github-trophies.vercel.app/?username=BoshithaMGunarathna&theme=algolia&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,CCC,CC,C,B&row=1&column=8) -->
 
 
-<div align="center">
- // <a href="https://visitcount.itsvg.in">
- //   <img src="https://visitcount.itsvg.in/api?id=BoshithaMGunarathna&icon=5&color=1" alt="Visit Count" />
- // </a>
-</div>
+
 
 
 
