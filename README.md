@@ -3,8 +3,8 @@
   <br/>Hey! I'm Boshitha Gunarathna
 </h2>
 
-<a href="https://user-badge.committers.top/sri_lanka_private/IT2131792">
-  <img src="https://user-badge.committers.top/sri_lanka_private/IT2131792.svg" alt="committers badge" />
+<a href="https://user-badge.committers.top/sri_lanka_private/BoshithaMGunarathna">
+  <img src="https://user-badge.committers.top/sri_lanka_private/BoshithaMGunarathna.svg" alt="committers badge" />
 </a>
 
 
@@ -18,24 +18,24 @@
 https://it21319792.github.io/Myportfolio/
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IT21319792&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IT21319792&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21319792&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BoshithaMGunarathna&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BoshithaMGunarathna&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BoshithaMGunarathna&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
  ## 🏆 GitHub Trophies
- ![](https://github-profile-trophy.vercel.app/?username=IT21319792&theme=algolia&no-frame=false&no-bg=true&margin-w=4) 
+ ![](https://github-profile-trophy.vercel.app/?username=BoshithaMGunarathna&theme=algolia&no-frame=false&no-bg=true&margin-w=4) 
 
 
 <!-- ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=it21319792&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=BoshithaMGunarathna&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=it21319792&theme=algolia&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,CCC,CC,C,B&row=1&column=8) -->
+![](https://github-trophies.vercel.app/?username=BoshithaMGunarathna&theme=algolia&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,CCC,CC,C,B&row=1&column=8) -->
 
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=IT21319792&icon=5&color=1" alt="Visit Count" />
+    <img src="https://visitcount.itsvg.in/api?id=BoshithaMGunarathna&icon=5&color=1" alt="Visit Count" />
   </a>
 </div>
 
