@@ -15,7 +15,7 @@
 </div>
 
 # 📊 portfolio:
-https://it21319792.github.io/Myportfolio/
+https://BoshithaMGunarathna.github.io/Myportfolio/
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BoshithaMGunarathna&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)<br/>
