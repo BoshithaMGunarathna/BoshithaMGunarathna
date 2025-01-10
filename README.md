@@ -22,6 +22,8 @@ https://BoshithaMGunarathna.github.io/Myportfolio/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BoshithaMGunarathna&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BoshithaMGunarathna&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BoshithaMGunarathna&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  ## 🏆 GitHub Trophies
  ![](https://github-profile-trophy.vercel.app/?username=BoshithaMGunarathna&theme=algolia&no-frame=false&no-bg=true&margin-w=4) 
 
