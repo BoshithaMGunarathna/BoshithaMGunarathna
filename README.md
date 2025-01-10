@@ -18,7 +18,7 @@
 https://BoshithaMGunarathna.github.io/Myportfolio/
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BoshithaMGunarathna&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)<br/>
+// ![](https://github-readme-stats.vercel.app/api?username=BoshithaMGunarathna&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![BoshithaMGunarathna's Stats](https://github-readme-stats.vercel.app/api?username=BoshithaMGunarathna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BoshithaMGunarathna&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BoshithaMGunarathna&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
