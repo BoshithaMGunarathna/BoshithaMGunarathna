@@ -5,9 +5,7 @@
   <br/>Hey! I'm Boshitha Gunarathna
 </h2>
 
-<a href="https://user-badge.committers.top/sri_lanka_private/BoshithaMGunarathna">
-  <img src="https://user-badge.committers.top/sri_lanka_private/BoshithaMGunarathna.svg" alt="committers badge" />
-</a>
+
 
 
 <div align="center">
@@ -16,10 +14,14 @@
   </a>
 </div>
 
-# 📊 portfolio:
-https://BoshithaMGunarathna.github.io/Myportfolio/
+# 🌐 Portfolio
+<div align="left">
+  <a href="https://BoshithaMGunarathna.github.io/Myportfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-# 📊 GitHub Stats:
+# 🛠️ Tech Stack
 
 ![BoshithaMGunarathna's Stats](https://github-readme-stats.vercel.app/api?username=BoshithaMGunarathna&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BoshithaMGunarathna&theme=jolly&hide_border=false)<br/>
