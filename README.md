@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BoshithaMGunarathna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=BoshithaMGunarathna&theme=algolia&no-frame=false&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,CCC,CC,C,B&row=1&column=8) 
 
 
